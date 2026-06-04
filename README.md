@@ -33,8 +33,9 @@ Performed network traffic analysis using Wireshark and investigated forensic art
 
 ## Education
 
-BSc (Hons) Cyber Security  
+BSc (Hons) Cyber Security
 Birmingham City University
+Expected Graduation: 2027
 
 ## Contact
 
