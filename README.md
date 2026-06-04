@@ -17,22 +17,19 @@ I am a BSc (Hons) Cyber Security student at Birmingham City University with expe
 - Access Control
 - Risk Management
 
-## Projects
+## Featured Projects
+
+### Network Vulnerability Assessment
+
+Conducted vulnerability assessments using Nmap, OpenVAS and Metasploit within a controlled lab environment. Identified exposed services, analysed vulnerabilities and recommended mitigation strategies.
 
 ### Network Design and Configuration
-Cisco Packet Tracer projects involving VLANs, DHCP, IPv4/IPv6 addressing and network security.
 
-### Nmap Security Assessment
-Network scanning and analysis using Nmap to identify open ports and services.
+Designed and configured enterprise-style networks using Cisco Packet Tracer. Implemented IPv4/IPv6 addressing, VLANs, DHCP, routing, HSRP and EtherChannel while troubleshooting connectivity issues.
 
-### Linux Administration
-User management, shell scripting and system administration tasks.
+### Cyber Security and Digital Forensics Lab
 
-### Digital Forensics Investigation
-Evidence handling, acquisition, preservation and forensic investigation planning.
-
-### Wireshark Traffic Analysis
-Network packet analysis and credential capture demonstrations.
+Performed network traffic analysis using Wireshark and investigated forensic artefacts within virtual lab environments to support cyber security investigations.
 
 ## Education
 
