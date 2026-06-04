@@ -1,4 +1,4 @@
-# Packet Tracer Network Design
+# Network-Design-and-Configuration
 
 ## Overview
 This project demonstrates network design and configuration using Cisco Packet Tracer.
